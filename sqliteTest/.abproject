@@ -1,0 +1,38 @@
+{
+  "ProjectName": "sqliteTest",
+  "ProjectGuid": "7399c37d-dd51-4f4c-b476-a6fd87259bfb",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.sqliteTest",
+  "DisplayName": "sqliteTest",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{d8664c9b-1b18-4b80-8c39-0a43a2afa076}",
+  "WP8ProductID": "{36f76a39-893a-4aaa-810f-17975fca38bf}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
